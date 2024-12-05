@@ -1,0 +1,46 @@
+# Compilação de arquivos
+bin/
+obj/
+node_modules/
+
+
+# Rider, VS Code e outras IDEs
+.idea/
+.vscode/
+.vs/
+
+# Build artefacts
+*.dll
+*.exe
+*.pdb
+*.log
+*.cache
+*.db
+*.testsettings
+
+# Configurações de usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Sistema de arquivos e logs
+.DS_Store
+Thumbs.db
+*.swp
+
+# Logs
+*.log
+
+# Sistema de pacotes
+*.nuget/
+
+# Variáveis de ambiente
+*.env
+*Confidential/
+
+# Migrations
+Migrations/
+
+# Arquivos de compilação
+Frontend/build/
